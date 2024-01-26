@@ -135,7 +135,7 @@ const displayMobileMenu = () => {
         } else {
             closeMobileMenu()
         }
-        linksContainer.classList.toggle("-translate-x-full")
+        linksContainer.classList.toggle("-translate-y-full")
 }
 
 const closeMenuOnLinkClick = () => {
@@ -298,5 +298,5 @@ langSelect.addEventListener('click', (e) => {
 scrollTopBtn.addEventListener('click', scrollToTop)
 
 menuButton.addEventListener("click", displayMobileMenu)
-menuButton.addEventListener("mouseenter", addTransition)
-menuButton.addEventListener("mouseleave", removeTransition)
+menuButton.addEventListener("mouseenter", () => {addTransition(linksContainer)})
+menuButton.addEventListener("mouseleave", () => {removeTransition(linksContainer)})

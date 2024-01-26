@@ -1,8 +1,8 @@
-const addTransition = () => {
-    linksContainer.classList.add("duration-300")
+const addTransition = (container) => {
+    container.classList.add("duration-300")
 }
-const removeTransition = () => {
-    linksContainer.classList.remove("duration-300")
+const removeTransition = (container) => {
+    container.classList.remove("duration-300")
 }
 
 const mediumText = (string) => {
