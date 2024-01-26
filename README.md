@@ -1,2 +1,2 @@
 # My-Personal-Page
-My personal page created mainly to showcase my projects and also to learn TailwindCSS.
+I created this page primarily to showcase my front-end development projects. Simultaneously, I learned to use Tailwind CSS through its creation. I also added the option to choose between English and Czech languages to the page.
