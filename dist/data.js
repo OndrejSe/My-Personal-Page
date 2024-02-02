@@ -99,14 +99,14 @@ const translation = {
         // HEADER
         langCode: 'CZE',
         langName: 'Čeština',
-        navAbout: 'o mě',
+        navAbout: 'o mně',
         navPortfolio: 'portfolio',
         navConnect: 'spojení',
         headerName: 'Ondřej Sedlák',
         headerRole: 'Budoucí vývojář front-endu',
         headerButton: 'ukázkové projekty',
         // ABOUT
-        aboutHeading: 'O mě',
+        aboutHeading: 'O mně',
         aboutText: `Jmenuji se ${mediumText('Ondřej Sedlák')} a&nbsp;v&nbsp;současné době hledám svou první pracovní příležitost jako ${mediumText('vývojář front&#8209;endu')}. O&nbsp;tuto oblast jsem se začal více zajímat v minulém roce. Pro osvojení základů jsem zvolil kurz ${mediumText('HTML, CSS a&nbsp;Javascriptu')} od&nbsp;Engeto Akademie. Po&nbsp;jeho dokončení jsem v dalším rozvoji pokračoval samostatně, a&nbsp;to především skrze tvorbu vlastních cvičných projektů. Jejich tvorbou jsem prohloubil své znalosti Javascriptu a seznámil jsem se s&nbsp;${mediumText('SCSS')} a&nbsp;${mediumText('Tailwindem')}. Mojí největší dosavadní výzvou byla tvorba webu fiktivní cyklopůjčovny, s&nbsp;funkčním rezervačním formulářem a&nbsp;nákupním košíkem. Přehled&nbsp;mých vybraných projektů naleznete ${portfolioLink('v mém portfoliu')}.`,
         // PORTFOLIO
         portfolioHeading: 'Portfolio',
