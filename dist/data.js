@@ -74,7 +74,7 @@ const translation = {
         navPortfolio: navItems.portfolio.caption,
         navConnect: navItems.connect.caption,
         headerName: 'Ondřej Sedlák',
-        headerRole: 'Future Front-End Developer',
+        headerRole: `I'm learning web development`,
         headerButton: 'see my projects',
         // ABOUT
         aboutHeading: 'About Me',
@@ -103,7 +103,7 @@ const translation = {
         navPortfolio: 'portfolio',
         navConnect: 'spojení',
         headerName: 'Ondřej Sedlák',
-        headerRole: 'Budoucí vývojář front-endu',
+        headerRole: 'Učím se vyvíjet weby',
         headerButton: 'ukázkové projekty',
         // ABOUT
         aboutHeading: 'O mně',
